@@ -1,0 +1,13 @@
+<svg width="200" height="50" viewBox="0 0 280 100" xmlns="http://www.w3.org/2000/svg">
+    <!-- Box icon -->
+    <g transform="translate(20,20)">
+        <polygon points="0,20 40,0 80,20 40,40" fill="#fbbf24" stroke="#92400e" stroke-width="2"/>
+        <polygon points="0,20 40,40 40,80 0,60" fill="#fcd34d" stroke="#92400e" stroke-width="2"/>
+        <polygon points="80,20 40,40 40,80 80,60" fill="#f59e0b" stroke="#92400e" stroke-width="2"/>
+    </g>
+
+    <!-- Text -->
+    <text x="120" y="60" font-family="Leckerli One, Arial, Helvetica, sans-serif" font-size="36" font-weight="bold" fill="currentColor">
+        Shipping <tspan fill="#f59e0b">Box</tspan>
+    </text>
+</svg>
