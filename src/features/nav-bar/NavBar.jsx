@@ -13,10 +13,12 @@ export default function NavBar() {
       </Link>
       <nav>
         <Link to={"/"} className={"mr-2 md:mr-10 p-1"}>
-          Add Box
+          <span className={"text-amber-400 hover:text-amber-300"}>Add Box</span>
         </Link>
         <Link to={"/view-all"} className={"p-1"}>
-          View All
+          <span className={"text-amber-400 hover:text-amber-300"}>
+            View All
+          </span>
         </Link>
       </nav>
     </header>
