@@ -49,7 +49,7 @@ export default function AddBox() {
       >
         <form
           className={
-            "flex flex-col md:grid md:grid-cols-[40%_1fr] gap-4 m-4 align-middle"
+            "flex flex-col md:grid md:grid-cols-[30%_1fr] gap-4 m-4 align-middle"
           }
           onSubmit={handleSubmit}
         >
