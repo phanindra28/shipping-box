@@ -10,6 +10,7 @@ This repository contains a React application for managing and viewing shipping b
 - Context-based state management
 
 ### Live URL:
+
 This feature is hosted on Vercel and can be accessed here: [Shipping Box](https://shipping-box-drab.vercel.app/)
 
 ## Getting Started
@@ -70,5 +71,5 @@ The optimized build will be created in the `dist` folder.
 
 - [React](https://reactjs.org/) - Frontend library
 - [Vite](https://vitejs.dev/) - Build tool and development server
-- [Tailwind CSS](https://tailwindcss.com/) - For handling the stylings
+- [Tailwind CSS](https://tailwindcss.com/) - Handles CSS
 - Context API - State management
