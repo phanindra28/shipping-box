@@ -10,7 +10,7 @@ This repository contains a React application for managing and viewing shipping b
 - Context-based state management
 
 ### Live URL:
-This feature is hosted on Vercel. You can access it here:
+This feature is hosted on Vercel and can be accessed here: [Shipping Box](https://shipping-box-drab.vercel.app/)
 
 ## Getting Started
 
