@@ -79,7 +79,7 @@ export default function AddBox() {
             onChange={handleChange}
             required
           />
-          <label htmlFor={"weight"} className={"p-2"}>
+          <label htmlFor={"color"} className={"p-2"}>
             Box Color <span className={"text-red-600"}>*</span>
           </label>
           <input
@@ -90,7 +90,7 @@ export default function AddBox() {
             name={"color"}
             required
           />
-          <label htmlFor={"weight"} className={"p-2"}>
+          <label htmlFor={"country"} className={"p-2"}>
             Destination Country <span className={"text-red-600"}>*</span>
           </label>
           <select
